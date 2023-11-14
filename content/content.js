@@ -21,8 +21,7 @@ class CaptureOverlay {
   }
 
   removeOverlay() {
-    const currentOverlay = document.getElementById(this.captureArea.id);
-    currentOverlay.remove();
+    document.getElementById(this.captureArea.id).style.display = 'none';
   }
 }
 
