@@ -1,0 +1,318 @@
+{
+  webEntities: [
+    {
+      entityId: "/g/11cnq78vpr",
+      score: 0.7224000096321106,
+      description: "Prestige",
+    },
+    {
+      entityId: "/m/0dxmm",
+      score: 0.7192999720573425,
+      description: "Pressure cooking",
+    },
+    {
+      entityId: "/g/11svs150r5",
+      score: 0.7127000093460083,
+      description: "Prestige Popular Stainless Steel Pressure Cooker",
+    },
+    {
+      entityId: "/g/11vm40p9_p",
+      score: 0.5983999967575073,
+      description: "",
+    },
+    {
+      entityId: "/m/011f413r",
+      score: 0.5705999732017517,
+      description: "Multicooker",
+    },
+    {
+      entityId: "/g/11c3trh47m",
+      score: 0.4514000117778778,
+      description: "Hawkins",
+    },
+    {
+      entityId: "/m/03s_tn",
+      score: 0.44920000433921814,
+      description: "Kettle",
+    },
+    {
+      entityId: "/m/02wv746",
+      score: 0.43700000643730164,
+      description: "Range",
+    },
+    {
+      entityId: "/m/027vj2v",
+      score: 0.42570000886917114,
+      description: "Aluminium",
+    },
+    {
+      entityId: "/g/11kqkyb4k1",
+      score: 0.4153999984264374,
+      description: "Prestige Popular Svachh Aluminium Pressure Cooker",
+    },
+  ],
+  fullMatchingImages: [
+    {
+      url: "https://www.dontwasteyourmoney.com/wp-content/uploads/2021/03/prestige-stainless-steel-stovetop-pressure-cooker-3-liter.jpg",
+      score: 0,
+    },
+    {
+      url: "https://www.u-buy.co.nz/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFTTU9LaExOaEwuX0FDX1NMMTUwMF8uanBn.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF894,1000_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://http2.mlstatic.com/D_NQ_NP_790780-CBT51514689509_092022-O.webp",
+      score: 0,
+    },
+    {
+      url: "https://happycredit.in/cloudinary_opt/blog/5-prestige-popular-virgin-aluminium-precision-wei-ffrzd.webp",
+      score: 0,
+    },
+    {
+      url: "https://diaytar.com/wp-content/uploads/zma/51SMOKhLNhL._AC_UL400_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UY218_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF350,350_QL50_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF350,350_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://www.dontwasteyourmoney.com/wp-content/uploads/2021/03/prestige-stainless-steel-stovetop-pressure-cooker-3-liter-300x174.jpg",
+      score: 0,
+    },
+  ],
+  partialMatchingImages: [
+    {
+      url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF1000,1000_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://www.ubuy.com.my/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFTTU9LaExOaEwuX0FDX1NMMTUwMF8uanBn.jpg",
+      score: 0,
+    },
+    {
+      url: "https://qph.cf2.quoracdn.net/main-qimg-be618594c7ddccc53313ce24632ef85c",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51QcjeI7euL._AC_UF894,1000_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://images-cdn.ubuy.co.in/634006c330048e5c112e531b-prestige-prp3-pressure-cooker-3-liter.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/31sMcGL2NdL._AC_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51QcjeI7euL._AC_UF1000,1000_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/61sDBgnwkzL.jpg",
+      score: 0,
+    },
+    {
+      url: "https://i5.walmartimages.com/asr/e7b21595-dc8d-483a-a812-d8e2aa65368c.dd2d6787d1da89ce424991bdef085fa8.jpeg",
+      score: 0,
+    },
+    {
+      url: "https://www.brit.co/reviews/wp-content/uploads/2023/03/prestige-cooker.jpg",
+      score: 0,
+    },
+  ],
+  pagesWithMatchingImages: [
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://top10productsindia.in/wp-content/uploads/2021/09/Prestige-Popular-3L-Aluminum-Pressure-Cooker.webp",
+          score: 0,
+        },
+      ],
+      url: "https://aspaen.edu.co/?w=11-best-pressure-cookers-in-india-in-2023-ee-bkvzlOTe",
+      score: 0,
+      pageTitle: "11 Best <b>Pressure Cookers In India</b> In 2023 - Aspaen",
+    },
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://media.assettype.com/outlookindia/import/uploadimage/library/free_files/png/image4_2023_10_12_091039.png?w=1080&auto=format%2Ccompress&fit=max",
+          score: 0,
+        },
+      ],
+      url: "https://www.outlookindia.com/whats-hot/best-pressure-cookers-to-buy-in-2023-top-7-picks-news-324227",
+      score: 0,
+      pageTitle: "Best <b>Pressure Cookers</b> To Buy In 2023 - Top 7 Picks - Outlook <b>India</b>",
+    },
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/31lTOr8zOML._AC_SY350_QL15_.jpg",
+          score: 0,
+        },
+      ],
+      url: "https://www.gbu-taganskij.ru/?s=buy-prestige-popular-aluminium-pressure-cooker-with-outer-lid-xx-xXkXjNF3",
+      score: 0,
+      pageTitle: "Buy Prestige Popular Aluminium <b>Pressure Cooker</b> With Outer, 55 ...",
+    },
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/31lTOr8zOML._AC_SY350_QL15_.jpg",
+          score: 0,
+        },
+      ],
+      url: "https://www.gbu-presnenskij.ru/?q=buy-prestige-popular-aluminium-pressure-cooker-with-outer-lid-dd-PrmrJlib",
+      score: 0,
+      pageTitle: "Buy Prestige Popular Aluminium <b>Pressure Cooker</b> with Outer Lid L ...",
+    },
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/31lTOr8zOML._AC_SY350_QL15_.jpg",
+          score: 0,
+        },
+      ],
+      url: "https://gbu-taganskij.ru/platnie-uslugi/?w=buy-prestige-popular-aluminium-pressure-cooker-with-outer-lid-kk-oqDqagUY",
+      score: 0,
+      pageTitle: "Buy Prestige Popular Aluminium <b>Pressure Cooker</b> With Outer, 49 ...",
+    },
+    {
+      fullMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF350,350_QL80_.jpg",
+          score: 0,
+        },
+      ],
+      partialMatchingImages: [
+      ],
+      url: "https://www.conesolfc.com/Kids/?s=prestige-popular-pressure-cooker-outer-lid-aluminium-lt-silver-ii-pm0Eeoi6",
+      score: 0,
+      pageTitle: "Prestige Popular <b>Pressure Cooker</b> (Outer Lid, Aluminium, Lt,, 42% OFF",
+    },
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/514M+UZ5bhL._AC_UF894,1000_QL80_.jpg",
+          score: 0,
+        },
+      ],
+      url: "https://micoope.com.gt/?s=best-selling-pressure-cooker-brands-in-india-with-price-aa-g7YJjDc0",
+      score: 0,
+      pageTitle: "Best Selling <b>Pressure Cooker</b> Brands in <b>India</b> with Price",
+    },
+    {
+      fullMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF894,1000_QL80_.jpg",
+          score: 0,
+        },
+      ],
+      partialMatchingImages: [
+      ],
+      url: "https://iscclimatecollaborative.org/search/march-18-2023-lcbo-vintages-release-wine-picks-pinot-dd-/?s=prestige-nakshatra-svachh-pressure-cooker-aluminium-l-silver-price-dd-lVlKOGT8",
+      score: 0,
+      pageTitle: "Prestige Nakshatra Svachh <b>Pressure Cooker</b> (Aluminium, L,, 42% OFF",
+    },
+    {
+      fullMatchingImages: [
+      ],
+      partialMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/514M+UZ5bhL._AC_UF894,1000_QL80_.jpg",
+          score: 0,
+        },
+      ],
+      url: "https://www.westaflex.es/?a=best-selling-pressure-cooker-brands-in-india-with-price-gg-4v9jMRTn",
+      score: 0,
+      pageTitle: "Best Selling <b>Pressure Cooker</b> Brands in <b>India</b> with Price - Westaflex",
+    },
+    {
+      fullMatchingImages: [
+        {
+          url: "https://m.media-amazon.com/images/I/51SMOKhLNhL._AC_UF894,1000_QL80_.jpg",
+          score: 0,
+        },
+      ],
+      partialMatchingImages: [
+      ],
+      url: "https://transplantecapilarbrasilia.com.br/?u=best-pressure-cooker-in-india-april-2022-reviews-buying-kk-3YbbraUz",
+      score: 0,
+      pageTitle: "Best <b>Pressure Cooker In India</b>: (April 2022) Reviews Buying, 43% OFF",
+    },
+  ],
+  visuallySimilarImages: [
+    {
+      url: "https://i5.walmartimages.com/seo/Prestige-Popular-Aluminium-Pressure-Cooker-Silver-7-5-Litres_269177fd-1ee5-4e5a-ac7a-c93a7ed04d95.94a4df793d7bb998acf2573db296ce96.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/514M+UZ5bhL._AC_UF894,1000_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51fhbrd2IML.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/31GtQvpZ-7L._AC_SR300,300.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51IXfGUMWYL._AC_UF894,1000_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "https://i.ebayimg.com/images/g/AQoAAOSwXehj3TOM/s-l1200.webp",
+      score: 0,
+    },
+    {
+      url: "https://i.ebayimg.com/images/g/kDgAAOSwP9ZiFgg6/s-l1600.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/51HF9inUwqL.jpg",
+      score: 0,
+    },
+    {
+      url: "https://m.media-amazon.com/images/I/519aOqUZ0pL._AC_UF350,350_QL80_.jpg",
+      score: 0,
+    },
+    {
+      url: "http://5.imimg.com/data5/ANDROID/Default/2023/2/LT/AI/RB/12474442/product-jpeg-500x500.jpg",
+      score: 0,
+    },
+  ],
+  bestGuessLabels: [
+    {
+      label: "pressure cooker in india",
+      languageCode: "en",
+    },
+  ],
+}

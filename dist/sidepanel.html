@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="sidepanel.css">
+  <link rel="stylesheet" href="loader.css">
+  <title>Image Upload and Base64 Conversion</title>
+</head>
+
+<body>
+  <h1>My sidepanel</h1>
+
+  <div>
+    <div id="drop-area">
+      <p>Click or drag an image here to upload</p>
+      <input type="file" id="file-input" style="display: none;" accept="image/*">
+    </div>
+    <img id="image-preview" alt="Preview">
+    <div>
+      <button id="submit-image">
+        Find my Image
+      </button>
+    </div>
+    <div id="result-container">
+    </div>
+    <div id="loader">
+      <div class='tetrominos'>
+        <div class='tetromino box1'></div>
+        <div class='tetromino box2'></div>
+        <div class='tetromino box3'></div>
+        <div class='tetromino box4'></div>
+      </div>
+    </div>
+
+  </div>
+  <script src="main.js"></script>
+</body>
+
+</html>
