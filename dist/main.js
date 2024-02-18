@@ -65,6 +65,7 @@ document.getElementById('submit-image').addEventListener('click', async () => {
     if (searchResults && searchResults.length > 0) {
         renderSearchResults(searchResults);
     }
+    loaderOff();
 });
 
 function renderSearchResults(results) {
