@@ -47,13 +47,13 @@ async function handleFileSelect(event) {
 
 
 function loaderOn() {
+    document.getElementById('rainbowLoader').style.display = 'block';
     document.getElementById('submit-image').disabled = true;
-    document.getElementById('loader').style.display = 'block';
 }
 
 
 function loaderOff() {
-    document.getElementById('loader').style.display = 'none';
+    document.getElementById('rainbowLoader').style.display = 'none';
     document.getElementById('submit-image').disabled = false;
 }
 
