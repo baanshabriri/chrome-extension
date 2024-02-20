@@ -34,17 +34,14 @@ async function handleFileSelect(event) {
     }
     if (file) {
         const reader = new FileReader();
-
         reader.onload = async function (e) {
             const imagePreview = document.getElementById('image-preview');
             imagePreview.src = e.target.result;
             imagePreview.alt = file.name;
-            await getImageSearchResults();
         };
         reader.readAsDataURL(file);
     }
 }
-
 
 function loaderOn() {
     document.getElementById('rainbowLoader').style.display = 'block';
@@ -61,7 +58,9 @@ document.getElementById('submit-image').addEventListener('click', async () => {
 
     loaderOn();
     const base64Image = document.getElementById('image-preview').src.split(',')[1];
-    const searchResults = await getImageSearchResults(base64Image);
+    const fileName = document.getElementById('image-preview').alt;
+    const searchResults = await getImageSearchResults(base64Image, fileName);
+    console.log(searchResults);
     if (searchResults && searchResults.length > 0) {
         renderSearchResults(searchResults);
     }
@@ -105,17 +104,16 @@ function renderSearchResults(results) {
     container.appendChild(table);
 }
 
-
-async function getImageSearchResults(base64Image) {
-    const formData = new FormData();
-    formData.append('image', base64Image);
+async function getImageSearchResults(base64Image, fileName) {
     try {
-        // const response = await fetch('https://example.com/image-search', {
-        //     method: 'POST',
-        //     body: formData
-        // });
-        let response = await fetch('https://haveibeenpwned.com/api/v2/breaches', {
-            method: 'GET',
+        const title = Math.random().toString(36).slice(-6) + '-' + fileName;
+        const requestBody = `image=${encodeURIComponent(base64Image)}`;
+        let response = await fetch('http://localhost:8080/api/web-detection?fileName=' + title, {
+            method: 'POST',
+            body: requestBody,
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded'
+            },
         });
         if (response.ok) {
             return await response.json();
